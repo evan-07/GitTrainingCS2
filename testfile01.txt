@@ -1,0 +1,1 @@
+This is a sample test file which is already available in GitTrainingCS2.
